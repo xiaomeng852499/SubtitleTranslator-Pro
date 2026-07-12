@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+
+# Local runtime/cache files
+translation_cache.json
+*.progress.json
+cuda_runtime/
+tools/
+ffmpeg/
+models/
+
+# Generated subtitles and media
+*.srt
+*.vtt
+*.ass
+*.ssa
+*.wav
+*.mp3
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.wmv
+*.flac
+*.aac
+*.m4a
+
+# Local packages/logs
+*.zip
+*.log
